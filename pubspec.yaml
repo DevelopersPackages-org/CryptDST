@@ -1,0 +1,15 @@
+name: CryptDST
+version: 0.0.1
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependency:
+  args: any
+  keccak: ^1.0.3
+  binary: ^2.0.0
+  uuencode:
+    git: https://github.com/DevelopersPackages-org/uuencode
+executables:
+  uuencode:
+  base64:
+  keccack:
+  lzma:
